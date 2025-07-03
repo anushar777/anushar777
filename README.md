@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anushar777
-- 👀 I’m interested in web development!
+- 👋 Hi, I’m Anusha 
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning python!
 - 📫 You can reach me at anusha.ratra@gmail.com
 
